@@ -17,7 +17,7 @@ function App() {
         </a>
       </div>
       <h1>Vite + React dev version 0.7.1</h1>
-      2nd commit
+      2nd commit 3rd commit
       <div className="card">
         <button onClick={() => setCount((count) => count + 1)}>
           count is {count}
